@@ -1,7 +1,4 @@
-## Student Information
 
-Name: SS Bhengu
-Student Number: 22425308
 
 
 
