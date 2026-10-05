@@ -1,4 +1,7 @@
+## Student Information
 
+Name: Sbonelo Bhengu
+Student Number: 22425308
 
 
 
