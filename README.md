@@ -1,3 +1,10 @@
+## Student Information
+
+Name: SS Bhengu
+Student Number: 22425308
+
+
+
 # eThekwini 2026 Election Analytics
 
 Machine-learning election analytics project for the eThekwini Metropolitan Municipality using historical South African Local Government Election data.
